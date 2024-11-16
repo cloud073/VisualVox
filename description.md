@@ -3,7 +3,7 @@
 ## Project Overview:
 The main objective of the LipNet project is to develop an automated lip reading system that can accurately transcribe spoken words by analyzing video sequences of lip movements. This technology has significant applications in accessibility, security, and communication systems where audio may be unavailable or unreliable.
 ## About the Dataset:
-The dataset used in this project consists of 1000+ video recordings of a person speaking, specifically focusing on lip movements. The data is structured as video files (.mpg format) along with corresponding alignment files (.align) that contain the text transcriptions. The dataset is organized in the 's1' directory and includes multiple video samples of speaker pronouncing various phrases and words.
+The dataset used in this project consists of 1000 video recordings of a person speaking, specifically focusing on lip movements. The data is structured as video files (.mpg format) along with corresponding alignment files (.align) that contain the text transcriptions. The dataset is organized in the 's1' directory and includes multiple video samples of speaker pronouncing various phrases and words.
 
 ## Data Dictionary
 | Column Name | Description |
